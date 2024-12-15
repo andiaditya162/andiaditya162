@@ -1,7 +1,6 @@
 # Hi everyone 👋 
 ### My name is **Andi Putra Aditya Pratama**.
-Student of *Informatics Engineering* at Alauddin State Islamic University Makassar\
-*Mobile Development* Cohort at Bangkit Academy 2023 H2 led by Google, GoTo, & Traveloka
+I am a data enthusiast with a strong passion for Data Analysis, Data Processing, and Data Visualization. My goal is to develop the skills necessary to leverage data-driven insights that help organizations make informed decisions and solve complex problems. With a keen interest in Machine Learning, Predictive Analytics, and Data Analytics, I aim to transform raw data into actionable strategies. I have been involved in various projects where I applied data analytics to uncover trends, optimize processes, and improve efficiency. I am a strong believer in the power of collaboration and actively seek opportunities to work with diverse teams to achieve meaningful results. My background in Software Engineering supports my analytical journey by equipping me with the ability to build tools for efficient data collection, processing, and interpretation. I am eager to continue growing my expertise in data analysis and contribute to impactful solutions through data-driven decision-making
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>

@@ -3,11 +3,12 @@
 I am a data enthusiast with a strong passion for Data Analysis, Data Processing, and Data Visualization. My goal is to develop the skills necessary to leverage data-driven insights that help organizations make informed decisions and solve complex problems. With a keen interest in Machine Learning, Predictive Analytics, and Data Analytics, I aim to transform raw data into actionable strategies. I have been involved in various projects where I applied data analytics to uncover trends, optimize processes, and improve efficiency. I am a strong believer in the power of collaboration and actively seek opportunities to work with diverse teams to achieve meaningful results. My background in Software Engineering supports my analytical journey by equipping me with the ability to build tools for efficient data collection, processing, and interpretation. I am eager to continue growing my expertise in data analysis and contribute to impactful solutions through data-driven decision-making
 
 ### Tech Stack
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?logo=python&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=google-colab&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
   <br><br>
+
 
 ### Github Statistic
 <p align="left">

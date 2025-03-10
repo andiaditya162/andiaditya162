@@ -2,11 +2,13 @@
 ### My name is **Andi Putra Aditya Pratama**.
 A Computer Science graduate with a strong passion and expertise in Software Engineering and Data Analytics. Experienced in developing Android applications, data analysis, and implementing Internet of Things (IoT) solutions. Successfully collaborated on various technology projects and won multiple awards in national Hackathon competitions. Possesses strong problem-solving skills, adapts quickly to technological advancements, and is committed to continuous learning to deliver innovative technology solutions.
 ### Tech Stack
-  <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?logo=python&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=google-colab&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
-  <br><br>
+<img align="left" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?logo=python&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=google-colab&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"/>
+<br><br>
+
 
 
 ### Github Statistic
